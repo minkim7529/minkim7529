@@ -87,6 +87,20 @@
 </td>
 </tr>
 <tr>
+<td colspan="2">
+
+### 🎙️ 로컬 LLM 보이스 컴패니언 — Ollama ↔ Gemini 백엔드 실험
+`개인 프로젝트 · 오픈소스(Open-LLM-VTuber) 기반 실험`
+
+[Open-LLM-VTuber](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber) 위에서 로컬(Ollama)·클라우드(Gemini) LLM 백엔드를 바꿔가며 답변 품질을 비교하고, 소형 로컬 모델(7B급) 특유의 실패 유형(정체성 역전, 한자 혼입, 발화 반복)에 직접 대응 코드를 작성했습니다. temperature를 올려 표현 다양성을 확보하려는 실험은 이득이 없다는 걸 확인하고 되돌린 뒤, 그 실패 기록을 코드 주석으로 남겨 재실험을 방지했습니다.
+
+`Ollama` `Gemini API` `Python` `Edge TTS`
+
+[GitHub →](https://github.com/minkim7529/vtuber-ollama-gemini-experiments)
+
+</td>
+</tr>
+<tr>
 <td width="35%"><img src="https://raw.githubusercontent.com/minkim7529/legal-consultation-ai/master/images/ai-lawyer-ui-mockup.png" width="100%"/></td>
 <td width="65%">
 
