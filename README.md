@@ -8,7 +8,7 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-minkim7529.github.io-4F46E5?style=for-the-badge)](https://minkim7529.github.io/ai-engineering-portfolio/)
 [![GitHub](https://img.shields.io/badge/GitHub-minkim7529-181717?style=for-the-badge&logo=github)](https://github.com/minkim7529)
-[![Email](https://img.shields.io/badge/Email-a67877529%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a67877529@gmail.com)
+[![Email](https://img.shields.io/badge/Email-kms7529%40naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:kms7529@naver.com)
 
 </div>
 
@@ -19,6 +19,7 @@
 
 <div align="center">
 
+![Status](https://img.shields.io/badge/💼-AI_Engineer_취업_준비중-06B6D4?style=flat-square)
 ![Award](https://img.shields.io/badge/🏆-대구대학교_공학제_최우수상-4F46E5?style=flat-square)
 ![LLM](https://img.shields.io/badge/🧠-LLM_Fine--tuning_(LoRA)-06B6D4?style=flat-square)
 ![Team](https://img.shields.io/badge/🤝-팀_프로젝트_5회-4F46E5?style=flat-square)
@@ -48,9 +49,8 @@
 ![LoRA/Unsloth](https://img.shields.io/badge/Fine--tuning-LoRA%2FUnsloth-F7931E?style=flat-square)
 
 **Database / Infra**
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 </td>
 <td valign="top" width="50%">
