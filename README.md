@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://minkim7529.github.io/ai-engineering-portfolio/">
-  <img src="https://readme-typing-svg.demolab.com?font=Pretendard&size=28&duration=2800&pause=1200&color=4F46E5&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Kim+Minseok+%F0%9F%91%8B;RAG+%2F+LLM+%2F+AI+Backend+Engineer;%EC%B6%9C%EC%B2%98%EB%A5%BC+%EC%9D%B8%EC%9A%A9%ED%95%98%EB%A9%B0+%EB%8B%B5%ED%95%98%EB%8A%94+%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%84+%EB%A7%8C%EB%93%AD%EB%8B%88%EB%8B%A4" alt="typing-svg" />
+  <img src="https://readme-typing-svg.demolab.com?font=Pretendard&size=28&duration=2800&pause=1200&color=4F46E5&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Kim+Minseok+%F0%9F%91%8B;AI+Engineer+%7C+RAG+%2F+LLM+Fine-tuning;%EC%B6%9C%EC%B2%98%EB%A5%BC+%EC%9D%B8%EC%9A%A9%ED%95%98%EB%A9%B0+%EB%8B%B5%ED%95%98%EB%8A%94+%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%84+%EB%A7%8C%EB%93%AD%EB%8B%88%EB%8B%A4" alt="typing-svg" />
 </a>
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-minkim7529.github.io-4F46E5?style=for-the-badge)](https://minkim7529.github.io/ai-engineering-portfolio/)
@@ -14,8 +14,16 @@
 
 <br>
 
-> 문서/이미지를 근거로 삼아 **출처를 인용하며 답하는 RAG 시스템**과, 실제로 배포되고 쓰이는 **AI 백엔드**를 만드는 데 관심이 많습니다.
-> 대구대학교 AI학과에서 공부하며 팀 프로젝트(ML·풀스택·임베디드)와 솔로 프로젝트를 오가며 실행까지 마무리하는 것을 우선합니다.
+> **RAG 시스템**과 **LLM 파인튜닝**을 중심으로, 근거를 인용하며 답하고 실제로 배포되는 AI 서비스를 만듭니다.
+> 대구대학교 AI학과에서 공부하며 ML·풀스택·임베디드를 넘나드는 팀 프로젝트를 진행해왔고, 현재는 RAG 검색·평가 방법론을 깊이 파고드는 중입니다.
+
+<div align="center">
+
+![Award](https://img.shields.io/badge/🏆-대구대학교_공학제_최우수상-4F46E5?style=flat-square)
+![LLM](https://img.shields.io/badge/🧠-LLM_Fine--tuning_(LoRA)-06B6D4?style=flat-square)
+![Team](https://img.shields.io/badge/🤝-팀_프로젝트_5회-4F46E5?style=flat-square)
+
+</div>
 
 <br>
 
@@ -32,30 +40,28 @@
 <tr>
 <td valign="top" width="50%">
 
-**Language**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-
 **AI / ML**
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Gemini API](https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 ![LoRA/Unsloth](https://img.shields.io/badge/Fine--tuning-LoRA%2FUnsloth-F7931E?style=flat-square)
 
+**Database / Infra**
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square)
+
 </td>
 <td valign="top" width="50%">
+
+**Language**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 
 **Backend / Frontend**
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white)
-
-**Database / Infra**
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 
 </td>
 </tr>
@@ -63,7 +69,59 @@
 
 <br>
 
-## 🚀 Projects
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="35%"><img src="https://raw.githubusercontent.com/minkim7529/legal-consultation-ai/master/images/ai-lawyer-ui-mockup.png" width="100%"/></td>
+<td width="65%">
+
+### ⚖️ 법률상담 AI
+`대구대학교 졸업작품 · 5인 팀` · 🏆 **공학제 최우수상**
+
+Llama 3.1 8B를 LoRA로 파인튜닝해 만든 AI 법률상담 시스템. 변호사 상담(30분 5~10만원)의 비용·시간 제약 없이 1차 법률 자문을 받을 수 있는 것을 목표로 설계했으며, Llama 2 · Mistral · Gemma와 비교 실험 후 베이스 모델을 직접 선정했습니다.
+
+`Llama 3.1 8B` `LoRA` `Unsloth`
+
+[GitHub →](https://github.com/minkim7529/legal-consultation-ai)
+
+</td>
+</tr>
+<tr>
+<td width="35%"><img src="https://raw.githubusercontent.com/minkim7529/hackathon-seolstudy/master/images/page-01.png" width="100%"/></td>
+<td width="65%">
+
+### 📚 설스터디
+`블레이버스 제4회 MVP 개발 해커톤 · 6인 팀`
+
+멘토가 학습 플랜을 설계하고 멘티가 학습 현황을 기록하면 데이터 기반으로 피드백하는 1:1 코칭 크로스 플랫폼. 프론트엔드(App Router 설계, 상태관리) 담당.
+
+`Next.js App Router` `TailwindCSS` `Zustand`
+
+[GitHub →](https://github.com/minkim7529/hackathon-seolstudy)
+
+</td>
+</tr>
+<tr>
+<td width="35%"><img src="https://raw.githubusercontent.com/minkim7529/goods-shop/master/images/homepage.png" width="100%"/></td>
+<td width="65%">
+
+### 🛍️ Goods Shop
+`2024.08 · 개인 프로젝트 (약 1개월, 단독 진행)`
+
+카카오톡 이모티콘 굿즈 판매를 목표로 기획부터 설계·구현까지 혼자 진행한 Java 웹 쇼핑몰. 회원가입/로그인, 장바구니(수량 조절·합계 자동 계산), 게시판까지 전 과정을 단독으로 완성했습니다.
+
+`Java` `JSP/Servlet`
+
+[GitHub →](https://github.com/minkim7529/goods-shop)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 📦 Other Projects
 
 <details open>
 <summary><b>🔍 멀티모달 개인 지식 어시스턴트</b> — <a href="https://github.com/minkim7529/knowledge-assistant">knowledge-assistant</a></summary>
@@ -73,47 +131,6 @@
 
 문서(PDF/DOCX/TXT)와 이미지를 업로드하면 하나의 지식베이스에서 텍스트·이미지를 함께 검색(RAG)해, 출처를 인용하며 답하는 개인 지식 어시스턴트.
 pgvector 코사인 유사도 + Postgres BM25 하이브리드 검색을 RRF로 병합하고, Gemini로 검색 결과를 재순위화한 뒤 근거 인용과 함께 스트리밍 응답을 생성합니다.
-
-</details>
-
-<details>
-<summary><b>⚖️ 법률상담 AI</b> — <a href="https://github.com/minkim7529/legal-consultation-ai">legal-consultation-ai</a> · 🏆 대구대학교 공학제 최우수상</summary>
-<br>
-
-`Llama 3.1 8B` `LoRA` `Unsloth`
-
-Llama 3.1 8B를 LoRA로 파인튜닝해 만든 AI 법률상담 시스템. 5인 팀 졸업작품으로, 변호사 상담(30분 5~10만원)의 비용·시간 제약 없이 1차 법률 자문을 받을 수 있는 것을 목표로 설계했습니다.
-Llama 2/Mistral/Gemma 대비 비교 실험 후 베이스 모델을 직접 선정했습니다.
-
-</details>
-
-<details>
-<summary><b>📚 설스터디</b> — <a href="https://github.com/minkim7529/hackathon-seolstudy">hackathon-seolstudy</a> · 블레이버스 제4회 MVP 개발 해커톤</summary>
-<br>
-
-`Next.js App Router` `TailwindCSS` `Zustand`
-
-멘토가 학습 플랜을 설계하고 멘티가 학습 현황을 기록하면 데이터 기반으로 피드백하는 1:1 코칭 크로스 플랫폼. 6인 팀 출품작이며 프론트엔드(App Router 설계, 상태관리) 담당.
-
-</details>
-
-<details>
-<summary><b>📺 치지직 이상형월드컵</b> — <a href="https://github.com/minkim7529/chzzk-idealcup">chzzk-idealcup</a></summary>
-<br>
-
-`Next.js` `TypeScript` `Socket.IO`
-
-치지직(Chzzk) 공식 Open API 채팅과 연동해 시청자와 함께 실시간으로 진행하는 이상형월드컵. 방송 세션 생성부터 실시간 투표 집계까지 구현한 로컬 프로토타입.
-
-</details>
-
-<details>
-<summary><b>🛍️ Goods Shop</b> — <a href="https://github.com/minkim7529/goods-shop">goods-shop</a> · 개인 프로젝트</summary>
-<br>
-
-`Java` `JSP/Servlet`
-
-약 한 달간 혼자 기획·설계·구현한 Java 웹 쇼핑몰. 회원가입/로그인, 장바구니(수량 조절·합계 자동 계산), 게시판까지 기획부터 배포 전 단계까지 전 과정을 단독으로 진행했습니다.
 
 </details>
 
