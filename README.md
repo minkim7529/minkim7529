@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:4F46E5,100:06B6D4&height=220&section=header&text=AI%20Engineer%20%EA%B9%80%EB%AF%BC%EC%84%9D%EC%9E%85%EB%8B%88%EB%8B%A4&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=RAG%20%2F%20LLM%20Fine-tuning%20%2F%20AI%20Backend&descAlignY=62&descSize=16" alt="header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:4F46E5,100:06B6D4&height=220&section=header&text=AI%20Engineer%20%EA%B9%80%EB%AF%BC%EC%84%9D%EC%9E%85%EB%8B%88%EB%8B%A4&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=RAG%20%2F%20LLM%20Fine-tuning%20%2F%20AI%20Backend&descAlignY=62&descSize=16" alt="header" width="100%"/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-minkim7529-181717?style=for-the-badge&logo=github)](https://github.com/minkim7529)
 [![Email](https://img.shields.io/badge/Email-kms7529%40naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:kms7529@naver.com)
