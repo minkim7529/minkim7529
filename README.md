@@ -136,25 +136,6 @@ Llama 3.1 8B를 LoRA로 파인튜닝해 만든 AI 법률상담 시스템. 변호
 
 </details>
 
-<details>
-<summary><b>🩺 피부질환 분류 알고리즘</b> — <a href="https://github.com/minkim7529/skin-disease-classifier">skin-disease-classifier</a></summary>
-<br>
-
-`PyTorch` `CNN`
-
-여드름·습진·피부암·정상 피부 4종을 분류하는 ResNet 스타일 skip-connection CNN을 처음부터 설계한 3인 팀 수업 프로젝트. 데이터 정제·모델 학습 담당, 배치 사이즈/에폭/드롭아웃 조합을 직접 스윕하며 최적점을 실측했습니다.
-
-</details>
-
-<details>
-<summary><b>📖 졸음방지 독서대</b> — <a href="https://github.com/minkim7529/drowsy-reading-stand">drowsy-reading-stand</a></summary>
-<br>
-
-`Arduino` `Dlib` `CNN`
-
-Dlib 얼굴 랜드마크로 검출한 눈 영역을 CNN으로 이진 분류해 졸음을 감지하고, 서보모터로 각도를 조절하는 임베디드 + AI 프로젝트. 2인 팀, 브레드보드 회로 직접 설계.
-
-</details>
 
 <br>
 
@@ -166,8 +147,6 @@ Dlib 얼굴 랜드마크로 검출한 눈 영역을 CNN으로 이진 분류해 �
 |---|---|---|
 | 법률상담 AI | 5인 | LLM 파인튜닝 |
 | 설스터디 (해커톤) | 6인 | 프론트엔드 |
-| 피부질환 분류기 | 3인 | 데이터 정제 · 모델 학습 |
-| 졸음방지 독서대 | 2인 | 임베디드 + AI 파이프라인 |
 | Goods Shop | 1인 (솔로) | 기획 · 설계 · 구현 전체 |
 
 <br>
