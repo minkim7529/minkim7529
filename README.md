@@ -72,6 +72,21 @@
 
 <table>
 <tr>
+<td colspan="2">
+
+### 🔍 멀티모달 개인 지식 어시스턴트 ⭐ 현재 집중 프로젝트
+`개인 프로젝트 · 진행 중`
+
+문서(PDF/DOCX/TXT)와 이미지를 업로드하면 하나의 지식베이스에서 텍스트·이미지를 함께 검색(RAG)해, 출처를 인용하며 답하는 개인 지식 어시스턴트.
+벡터 검색 + 키워드 검색 하이브리드 방식을 RRF로 병합하고, Gemini로 검색 결과를 재순위화한 뒤 근거 인용과 함께 스트리밍 응답을 생성합니다. 평가(eval) 파이프라인을 별도로 구축해 검색 품질을 계속 개선하고 있습니다.
+
+`Next.js` `FastAPI` `Gemini API` `MariaDB/MySQL`
+
+[GitHub →](https://github.com/minkim7529/knowledge-assistant)
+
+</td>
+</tr>
+<tr>
 <td width="35%"><img src="https://raw.githubusercontent.com/minkim7529/legal-consultation-ai/master/images/ai-lawyer-ui-mockup.png" width="100%"/></td>
 <td width="65%">
 
@@ -117,22 +132,6 @@ Llama 3.1 8B를 LoRA로 파인튜닝해 만든 AI 법률상담 시스템. 변호
 </td>
 </tr>
 </table>
-
-<br>
-
-## 📦 Other Projects
-
-<details open>
-<summary><b>🔍 멀티모달 개인 지식 어시스턴트</b> — <a href="https://github.com/minkim7529/knowledge-assistant">knowledge-assistant</a></summary>
-<br>
-
-`Next.js` `FastAPI` `Gemini API` `MariaDB/MySQL`
-
-문서(PDF/DOCX/TXT)와 이미지를 업로드하면 하나의 지식베이스에서 텍스트·이미지를 함께 검색(RAG)해, 출처를 인용하며 답하는 개인 지식 어시스턴트.
-벡터 검색 + 키워드 검색 하이브리드 방식을 RRF로 병합하고, Gemini로 검색 결과를 재순위화한 뒤 근거 인용과 함께 스트리밍 응답을 생성합니다.
-
-</details>
-
 
 <br>
 
