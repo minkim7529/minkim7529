@@ -29,8 +29,10 @@
 
 ## 🔭 지금 하고 있는 것
 
-- 멀티모달 RAG 지식 어시스턴트(`knowledge-assistant`)의 검색 품질 고도화 — 하이브리드 검색(pgvector + BM25) 재순위화 실험
-- RAG 아키텍처/평가 방법론 학습 및 정리
+- [x] RAG 하이브리드 검색(pgvector 코사인 유사도 + Postgres BM25) 구현 및 RRF 병합
+- [x] LLM(Llama 3.1 8B) LoRA 파인튜닝으로 도메인 특화 모델 학습
+- [ ] RAG 검색 품질 재순위화 실험 고도화
+- [ ] RAG 평가 방법론(RAGAS 등) 학습 및 적용
 
 <br>
 
@@ -184,7 +186,7 @@ Dlib 얼굴 랜드마크로 검출한 눈 영역을 CNN으로 이진 분류해 �
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=minkim7529&show_icons=true&hide_border=true&title_color=4F46E5&icon_color=06B6D4&text_color=333333" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=minkim7529&hide_border=true&background=FFFFFF00&stroke=4F46E5&ring=06B6D4&fire=4F46E5&currStreakLabel=4F46E5" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minkim7529&layout=compact&hide_border=true&title_color=4F46E5&text_color=333333" alt="Top Languages" />
 
 </div>
 
