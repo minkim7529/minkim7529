@@ -129,10 +129,10 @@ Llama 3.1 8B를 LoRA로 파인튜닝해 만든 AI 법률상담 시스템. 변호
 <summary><b>🔍 멀티모달 개인 지식 어시스턴트</b> — <a href="https://github.com/minkim7529/knowledge-assistant">knowledge-assistant</a></summary>
 <br>
 
-`Next.js` `FastAPI` `Gemini API` `Supabase/pgvector`
+`Next.js` `FastAPI` `Gemini API` `MariaDB/MySQL`
 
 문서(PDF/DOCX/TXT)와 이미지를 업로드하면 하나의 지식베이스에서 텍스트·이미지를 함께 검색(RAG)해, 출처를 인용하며 답하는 개인 지식 어시스턴트.
-pgvector 코사인 유사도 + Postgres BM25 하이브리드 검색을 RRF로 병합하고, Gemini로 검색 결과를 재순위화한 뒤 근거 인용과 함께 스트리밍 응답을 생성합니다.
+벡터 검색 + 키워드 검색 하이브리드 방식을 RRF로 병합하고, Gemini로 검색 결과를 재순위화한 뒤 근거 인용과 함께 스트리밍 응답을 생성합니다.
 
 </details>
 
