@@ -2,11 +2,8 @@
 
 <div align="center">
 
-<a href="https://minkim7529.github.io/ai-engineering-portfolio/">
-  <img src="https://readme-typing-svg.demolab.com?font=Pretendard&size=28&duration=2800&pause=1200&color=4F46E5&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Kim+Minseok+%F0%9F%91%8B;AI+Engineer+%7C+RAG+%2F+LLM+Fine-tuning;%EC%B6%9C%EC%B2%98%EB%A5%BC+%EC%9D%B8%EC%9A%A9%ED%95%98%EB%A9%B0+%EB%8B%B5%ED%95%98%EB%8A%94+%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%84+%EB%A7%8C%EB%93%AD%EB%8B%88%EB%8B%A4" alt="typing-svg" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:4F46E5,100:06B6D4&height=220&section=header&text=AI%20Engineer%20%EC%A4%80%EB%B9%84%EC%83%9D%20%EA%B9%80%EB%AF%BC%EC%84%9D%EC%9E%85%EB%8B%88%EB%8B%A4&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=RAG%20%2F%20LLM%20Fine-tuning%20%2F%20AI%20Backend&descAlignY=62&descSize=16" alt="header" width="100%"/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-minkim7529.github.io-4F46E5?style=for-the-badge)](https://minkim7529.github.io/ai-engineering-portfolio/)
 [![GitHub](https://img.shields.io/badge/GitHub-minkim7529-181717?style=for-the-badge&logo=github)](https://github.com/minkim7529)
 [![Email](https://img.shields.io/badge/Email-kms7529%40naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:kms7529@naver.com)
 
