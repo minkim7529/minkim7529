@@ -62,20 +62,6 @@
 <tr>
 <td colspan="2">
 
-### 🔍 멀티모달 개인 지식 어시스턴트 ⭐ 현재 집중 프로젝트
-`개인 프로젝트 · 진행 중`
-
-문서와 이미지를 올려두면 나중에 그 안에서 찾아 답해주는 개인용 RAG 어시스턴트입니다. 벡터 검색과 키워드 검색을 같이 돌려서 RRF로 합치고, Gemini로 한 번 더 순위를 매긴 다음 근거를 인용해 스트리밍으로 답합니다. eval 코드를 따로 짜서, 뭔가 바꿀 때마다 검색이 실제로 좋아지는지 확인하면서 작업하고 있습니다.
-
-`Next.js` `FastAPI` `Gemini API` `MariaDB/MySQL`
-
-[GitHub →](https://github.com/minkim7529/knowledge-assistant)
-
-</td>
-</tr>
-<tr>
-<td colspan="2">
-
 ### 🎙️ 로컬 LLM 보이스 컴패니언 — Ollama ↔ Gemini 백엔드 실험
 `개인 프로젝트 · 오픈소스(Open-LLM-VTuber) 기반 실험`
 
