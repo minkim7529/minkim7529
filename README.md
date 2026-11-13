@@ -1,161 +1,58 @@
-<!-- GitHub 프로필 메인 페이지 (minkim7529) -->
+# 김민석 · AI / LLM Engineer
 
-<div align="center">
+법률 도메인 파인튜닝, 로컬 LLM 실패 유형 분석, AI를 연결한 서비스 구현을 해왔습니다. 프로젝트마다 담당 역할과 기술적 결정, 확인 가능한 코드·학습 기록을 함께 정리합니다.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A5B4FC,100:67E8F9&height=220&section=header&text=AI%20Engineer%20%EA%B9%80%EB%AF%BC%EC%84%9D%EC%9E%85%EB%8B%88%EB%8B%A4&fontSize=32&fontColor=1E293B&animation=fadeIn&fontAlignY=40&desc=RAG%20%2F%20LLM%20Fine-tuning%20%2F%20AI%20Backend&descAlignY=62&descSize=16" alt="header" width="100%"/>
+**[포트폴리오 사이트](https://minkim7529.github.io/ai-engineering-portfolio/)** · [이메일: kms7529@naver.com](mailto:kms7529@naver.com)
 
-[![GitHub](https://img.shields.io/badge/GitHub-minkim7529-181717?style=for-the-badge&logo=github)](https://github.com/minkim7529)
-[![Email](https://img.shields.io/badge/Email-kms7529%40naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:kms7529@naver.com)
+대구대학교 AI학과 졸업(2026) · 법률상담 AI 졸업작품으로 공학제 최우수상
 
-</div>
+## 대표 프로젝트
 
-<br>
+### 1. 법률상담 AI · 도메인 파인튜닝
 
-> 대구대학교 AI학과에 다니면서 RAG, LLM 파인튜닝 쪽 프로젝트를 주로 해왔습니다.
+학생 4인 팀 졸업작품(지도교수: 김희철). Llama 3.1 8B를 법률 질의응답에 맞춰 학습하고 Gradio로 시연했습니다.
 
-<div align="center">
+- **담당:** 모델·데이터셋 조사, 학습 코드, 성능 개선·분석, 웹 프로그래밍 개발
+- **핵심 결정:** 4bit 모델에 LoRA를 적용하고 반복·미완결 문장을 후처리
+- **공개 근거:** 53,480건 · 1 epoch · 1,671 step 학습 기록, 노트북, 데이터 샘플, 어댑터 설정
 
-![Status](https://img.shields.io/badge/💼-AI_Engineer_취업_준비중-06B6D4?style=flat-square)
-![Award](https://img.shields.io/badge/🏆-대구대학교_공학제_최우수상-4F46E5?style=flat-square)
-![LLM](https://img.shields.io/badge/🧠-LLM_Fine--tuning_(LoRA)-06B6D4?style=flat-square)
-![Team](https://img.shields.io/badge/🤝-팀_프로젝트_5회-4F46E5?style=flat-square)
+`Python` `PyTorch` `LoRA / Unsloth` `Gradio`
 
-</div>
+[코드와 학습 기록](https://github.com/minkim7529/legal-consultation-ai) · [프로젝트 설명](https://minkim7529.github.io/ai-engineering-portfolio/projects/legal-consultation-ai.html)
 
-## 🧰 Tech Stack
+### 2. 로컬 LLM 보이스 컴패니언 · 출력 품질 보정
 
-<table>
-<tr>
-<td valign="top" width="50%">
+[Open-LLM-VTuber](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber) 기반 개인 확장 프로젝트. Ollama와 Gemini를 교체하며 소형 로컬 모델의 실패 유형을 다뤘습니다.
 
-**AI / ML**
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Gemini API](https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![LoRA/Unsloth](https://img.shields.io/badge/Fine--tuning-LoRA%2FUnsloth-F7931E?style=flat-square)
+- **담당:** Ollama 네이티브 백엔드, 스트리밍 필터, 정체성 역전 가드, 반복 발화 보정
+- **핵심 결정:** 모델 교체 실험과 규칙 기반 보정을 구분하고, 효과가 적었던 temperature 변경은 되돌림
+- **공개 근거:** 직접 수정한 15개 파일의 패치와 실패 유형별 대응 기록
 
-**Database / Infra**
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+`Python / asyncio` `Ollama` `Gemini API` `Edge TTS`
 
-</td>
-<td valign="top" width="50%">
+[변경 패치와 실험 기록](https://github.com/minkim7529/vtuber-ollama-gemini-experiments) · [프로젝트 설명](https://minkim7529.github.io/ai-engineering-portfolio/projects/vtuber-companion.html)
 
-**Language**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+### 3. StockPilot · AI 서비스 구현과 검증
 
-**Backend / Frontend**
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+시세·뉴스와 Gemini 판단을 연결한 Windows 주식 분석·모의투자 앱입니다.
 
-</td>
-</tr>
-</table>
+- **구현:** Electron UI, 로컬 API, 시세 수집, AI 판단, 모의 장부와 주문 검증
+- **핵심 결정:** 모의·실계좌 경로 분리, 중복 주문과 오래된 시세 차단, 오류·호출 한도 처리
+- **검증:** 2026.11.14 공개 코드 기준 자동 테스트 **79개 통과**. 가짜 응답 기반 검증이며 실제 운용 성과와는 별개
 
-<br>
+`JavaScript / Node.js` `Electron` `Gemini API` `node:test`
 
-## 🚀 Featured Projects
+[코드와 테스트](https://github.com/minkim7529/ai-stock-trading-program) · [프로젝트 설명](https://minkim7529.github.io/ai-engineering-portfolio/projects/ai-stock-trading-program.html)
 
-<table>
-<tr>
-<td colspan="2">
+## 기술 경험
 
-### 🎙️ 로컬 LLM 보이스 컴패니언 — Ollama ↔ Gemini 백엔드 실험
-`개인 프로젝트 · 오픈소스(Open-LLM-VTuber) 기반 실험`
+- **모델·LLM:** PyTorch, LoRA/Unsloth, Ollama, Gemini API, 프롬프트·출력 후처리
+- **서비스:** Python, FastAPI, Gradio, Node.js, Electron
+- **웹·데이터:** TypeScript, Next.js, Tailwind CSS, Java/JSP, MariaDB/MySQL
 
-[Open-LLM-VTuber](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber)를 가져다가 로컬 모델(Ollama)과 Gemini를 번갈아 붙여보면서 답변 품질을 비교했습니다. 7B급 로컬 모델은 캐릭터 관계를 반대로 말하거나(정체성 역전), 한자가 섞여 나오거나, 같은 말을 반복하는 문제가 있어서 하나씩 코드로 대응했습니다. temperature를 올려서 표현을 다양하게 만들어보려던 실험은 결국 별 효과가 없다는 걸 확인하고 되돌렸는데, 이 결과도 그냥 버리지 않고 주석으로 남겨뒀습니다.
+## 그 외 프로젝트와 협업
 
-`Ollama` `Gemini API` `Python` `Edge TTS`
-
-[GitHub →](https://github.com/minkim7529/vtuber-ollama-gemini-experiments)
-
-</td>
-</tr>
-<tr>
-<td width="35%"><img src="https://raw.githubusercontent.com/minkim7529/legal-consultation-ai/master/images/ai-lawyer-ui-mockup.png" width="100%"/></td>
-<td width="65%">
-
-### ⚖️ 법률상담 AI
-`대구대학교 졸업작품 · 5인 팀` · 🏆 **공학제 최우수상**
-
-Llama 3.1 8B를 LoRA로 파인튜닝해서 만든 법률상담 AI입니다. 변호사 상담이 30분에 5~10만원인 현실에서, 돈과 시간 부담 없이 1차 자문 정도는 받을 수 있게 만들어보자는 게 출발점이었습니다. 베이스 모델은 Llama 2, Mistral, Gemma를 직접 비교해보고 골랐습니다.
-
-`Llama 3.1 8B` `LoRA` `Unsloth`
-
-[GitHub →](https://github.com/minkim7529/legal-consultation-ai)
-
-</td>
-</tr>
-<tr>
-<td width="35%"><img src="https://raw.githubusercontent.com/minkim7529/hackathon-seolstudy/master/images/page-01.png" width="100%"/></td>
-<td width="65%">
-
-### 📚 설스터디
-`블레이버스 제4회 MVP 개발 해커톤 · 6인 팀`
-
-멘토가 학습 플랜을 짜고 멘티가 공부 기록을 남기면, 그 데이터를 보고 피드백을 주고받는 1:1 코칭 서비스입니다. 저는 프론트엔드를 맡아서 App Router 구조를 짜고 상태관리를 담당했습니다.
-
-`Next.js App Router` `TailwindCSS` `Zustand`
-
-[GitHub →](https://github.com/minkim7529/hackathon-seolstudy)
-
-</td>
-</tr>
-<tr>
-<td width="35%"><img src="https://raw.githubusercontent.com/minkim7529/goods-shop/master/images/homepage.png" width="100%"/></td>
-<td width="65%">
-
-### 🛍️ Goods Shop
-`2024.08 · 개인 프로젝트 (약 1개월, 단독 진행)`
-
-좋아하는 카카오톡 이모티콘 굿즈를 파는 사이트가 마땅히 없어서 직접 만들어본 Java 웹 쇼핑몰입니다. 기획부터 구현까지 혼자 했고, 회원가입/로그인, 장바구니, 게시판까지 한 달 정도 걸려서 완성했습니다.
-
-`Java` `JSP/Servlet`
-
-[GitHub →](https://github.com/minkim7529/goods-shop)
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## 🧭 협업 경험
-
-프로젝트마다 맡은 역할이 조금씩 달랐습니다.
-
-| 프로젝트 | 팀 규모 | 담당 역할 |
-|---|---|---|
-| 법률상담 AI | 5인 | LLM 파인튜닝 |
-| 설스터디 (해커톤) | 6인 | 프론트엔드 |
-| Goods Shop | 1인 (솔로) | 기획 · 설계 · 구현 전체 |
-
-<br>
-
-## 🎓 About
-
-| 항목 | 내용 |
-|---|---|
-| 학력 | 대구대학교 AI학과 (2020 ~ 2026 졸업) |
-| 수상 | 대구대학교 공학제 최우수상 — 법률상담 AI (졸업작품) |
-
-<br>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=minkim7529&show_icons=true&hide_border=true&title_color=4F46E5&icon_color=06B6D4&text_color=333333" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minkim7529&layout=compact&hide_border=true&title_color=4F46E5&text_color=333333" alt="Top Languages" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-궁금한 프로젝트 있으면 편하게 연락 주세요.
-
-</div>
+- **[설스터디](https://github.com/minkim7529/hackathon-seolstudy):** 6인 팀 해커톤. Next.js 기반 학습 코칭 서비스의 프론트엔드와 상태관리 담당
+- **[Goods Shop](https://github.com/minkim7529/goods-shop):** 개인 프로젝트. Java MVC 쇼핑몰 기획·설계·구현
+- **[피부질환 분류 알고리즘](https://github.com/minkim7529/skin-disease-classifier):** 3인 팀. 데이터 정제, 모델 학습 및 실행 담당
+- **[졸음방지 독서대](https://github.com/minkim7529/drowsy-reading-stand):** 2인 팀. CNN 눈 상태 분류와 하드웨어 설계 발표 기록
